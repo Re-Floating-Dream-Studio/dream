@@ -3,7 +3,7 @@ home: true
 title: 主页
 icon: home
 heroImage: https://image.youming.dns.army/work.png
-heroText: 网页帮你搞好了
+heroText: 欢迎来到Re. Floating Dream工作室官方文档网站！
 tagline: 内容
 actions:
   - text: 1
@@ -22,7 +22,7 @@ features:
     link: 
 
   - title: 内容2
-    icon: user-pen
+    icon: user-pen 
     details: 内容2
     link: /demo/
 
