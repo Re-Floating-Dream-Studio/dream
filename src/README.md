@@ -27,7 +27,7 @@ features:
     link: /demo/
 
 copyright: false
-footer: © 2024 xxx保留所有权利
+footer: © 2024 Re. Floating Dream Studio保留所有权利
 ---
 
 ## <HopeIcon icon="message" /> 更多
